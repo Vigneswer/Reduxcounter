@@ -19,6 +19,7 @@ const Counter = () => {
       <button onClick={()=>{dispatch(reset())}}>reset</button>
       
 <p>1234vsdvsvvdsv</p>
+<p>123445</p>
     </>
   )
 }
